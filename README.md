@@ -1,4 +1,4 @@
-VietNamese Checker
+# VietNamese Checker
 
 Check if a word is VietNamese or English (VietNamese without diacritic is not accepted) 
 Add src and resource files to your project
